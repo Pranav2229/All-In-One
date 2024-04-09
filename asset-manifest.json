@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/All-In-One/static/css/main.dd3eab84.css",
+    "main.js": "/All-In-One/static/js/main.fdd23361.js",
+    "static/js/787.d86e3883.chunk.js": "/All-In-One/static/js/787.d86e3883.chunk.js",
+    "index.html": "/All-In-One/index.html",
+    "main.dd3eab84.css.map": "/All-In-One/static/css/main.dd3eab84.css.map",
+    "main.fdd23361.js.map": "/All-In-One/static/js/main.fdd23361.js.map",
+    "787.d86e3883.chunk.js.map": "/All-In-One/static/js/787.d86e3883.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd3eab84.css",
+    "static/js/main.fdd23361.js"
+  ]
+}
